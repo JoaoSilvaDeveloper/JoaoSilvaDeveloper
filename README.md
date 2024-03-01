@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👨‍💻 Sobre Mim
+Olá! Eu sou João Manuel, um estudante do terceiro semestre de faculdade na linda cidade de Salvador, Bahia. Tenho paixão pela programação e estou focado em desenvolver minhas habilidades na área de desenvolvimento de software. Concluí um curso técnico no SENAI em Desenvolvimento de Sistemas, onde obtive conhecimentos sólidos em C# e MySQL, e agora estou ansioso para aplicá-los em projetos interessantes.
 
-<!--
-**JoaoSilvaDeveloper/JoaoSilvaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Projetos Principais
+Nome do Projeto - Breve descrição do projeto principal.
 
-Here are some ideas to get you started:
+🔗 LinkedIn
+Conecte-se comigo no LinkedIn para colaborações e oportunidades emocionantes na área de tecnologia!
+[LinkedIn](https://www.linkedin.com/in/joão-manuel-silva-cunha-459b162b7/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Contato
+Email: joag7710@gmail.com
+
