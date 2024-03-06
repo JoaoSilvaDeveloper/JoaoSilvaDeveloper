@@ -8,6 +8,8 @@ Olá! Eu sou João Manuel, um estudante do terceiro semestre de faculdade na lin
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoSilvaDeveloper&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+##
+
 🔗 LinkedIn
 Conecte-se comigo no LinkedIn para colaborações e oportunidades emocionantes na área de tecnologia!
 [LinkedIn](https://www.linkedin.com/in/joão-manuel-silva-cunha-459b162b7/)
