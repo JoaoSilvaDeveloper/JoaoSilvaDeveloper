@@ -4,10 +4,7 @@ Olá! Eu sou João Manuel, um estudante do terceiro semestre de faculdade na cid
 <a href="https://github.com/JoaoSilvaDeveloper/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoSilvaDeveloper" />
 </a>
-<a href="https://github.com/JoaoSilvaDeveloper/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoSilvaDeveloper&layout=compact&langs_count=8&card_width=120" />
-</a>
-##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
